@@ -1,0 +1,7 @@
+REST API
+
+1 - GET /api/users - get all users - DONE in JSON format
+
+1 - GET /users - get all users - DONE
+
+2 - GET /users/1 - get user from id 1
